@@ -7,3 +7,5 @@ On August 9, 2022, a month after [THETM account in osu!](https://osu.ppy.sh/user
 ## Site v2 (Raw github.io (November 2022 - present))
 
 On November 16, 2022, THETM had an idea for creating a collaborative website that will include more content, such as monthly pp records, more articles, osu!(lazer) wiki, and many more. On November 24, 2022, THETM started to create this project.
+
+On July 18, 2023, THETM created the webpage for maimai stuff in preparation for the maimai DX FESTiVAL PLUS release.
