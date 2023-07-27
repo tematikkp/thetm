@@ -5,5 +5,5 @@
 - Class: B4 (iirc) --> B5 (0)
 
 ## maimai DX FESTiVAL --> maimai DX FESTiVAL PLUS
-- Rating: 9256 --> ?
-- Class: A4 (9) (peak: A4 10) --> ?
+- Rating: 9358 --> ?
+- Class: A4 (12) (peak: A4 13) --> ?
