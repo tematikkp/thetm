@@ -7,3 +7,7 @@
 ## maimai DX FESTiVAL --> maimai DX FESTiVAL PLUS
 - Rating: 9552 --> 6881
 - Class: A3 (10) (peak: A3 10) --> B5 (0)
+
+## maimai DX FESTiVAL PLUS --> maimai DX BUDDiES
+- Rating: 10328 --> ?
+- Class: A5 (0) --> B5 (0)
