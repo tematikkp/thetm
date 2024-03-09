@@ -9,5 +9,5 @@
 - Class: A3 (10) (peak: A3 10) --> B5 (0)
 
 ## maimai DX FESTiVAL PLUS --> maimai DX BUDDiES
-- Rating: 10328 --> ?
+- Rating: 10328 --> 7539
 - Class: A5 (0) --> B5 (0)
