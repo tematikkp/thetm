@@ -1,4 +1,4 @@
-# THETM's Maimai Stats on Previous Versions
+# Indomi (thetm)'s Maimai Stats on Previous Versions
 
 ## maimai DX UNiVERSE PLUS --> maimai DX FESTiVAL
 - Rating: 6.6k (iirc) --> 5.3k (iirc)
