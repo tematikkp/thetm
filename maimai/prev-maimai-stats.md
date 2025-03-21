@@ -15,4 +15,9 @@
 ## maimai DX BUDDiES --> maimai DX BUDDiES PLUS
 
 - Rating: 10913 --> 7912
-- -Class: A5 (4) --> B5 (0)
+- Class: A5 (4) --> B5 (0)
+
+## maimai DX BUDDiES PLUS --> maimai DX PRiSM
+
+- Rating: 11731 --> 8496
+- 
