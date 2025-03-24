@@ -20,4 +20,4 @@
 ## maimai DX BUDDiES PLUS --> maimai DX PRiSM
 
 - Rating: 11731 --> 8496
-- 
+- Class: B3 (5) --> B5 (0)
