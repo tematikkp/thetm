@@ -1,6 +1,6 @@
 # Indomi (thetm)'s Maimai Stats on Previous Versions
 
-The data shown here is provided for transparency and progress tracking purposes (highest rating and .
+The data shown here is provided for transparency and progress tracking purposes (highest rating, grade, and class before transfer).
 
 ## maimai DX UNiVERSE PLUS --> maimai DX FESTiVAL
 - Rating: 6.6k (iirc) --> 5.3k (iirc)
