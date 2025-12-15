@@ -21,3 +21,8 @@
 
 - Rating: 11731 --> 8496
 - Class: B3 (5) --> B5 (0)
+
+## maimai DX PRiSM --> maimai DX PRiSM PLUS
+
+- Rating: 13286 --> 9440
+- Class: S5 (12) --> A5 (0)
