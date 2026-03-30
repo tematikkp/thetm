@@ -29,3 +29,9 @@ The data shown here is provided for transparency and progress tracking purposes 
 - Rating: 13286 --> 9440
 - Class: S5 (12) --> A5 (0)
 - Grade: 7th dan
+
+## maimai DX PRiSM --> maimai DX PRiSM PLUS (transferred on 8/15/2025)
+
+- Rating: 14129 --> 14129
+- Class: S1 (13) --> A5 (0)
+- Grade: 9th dan
