@@ -30,8 +30,14 @@ The data shown here is provided for transparency and progress tracking purposes 
 - Class: S5 (12) --> A5 (0)
 - Grade: 7th dan
 
-## maimai DX PRiSM --> maimai DX PRiSM PLUS (transferred on 8/15/2025)
+## maimai DX PRiSM PLUS --> maimai DX CiRCLE (transferred on 3/28/2026)
 
 - Rating: 14129 --> 14129
 - Class: S1 (13) --> A5 (0)
 - Grade: 9th dan
+
+## maimai DX CiRCLE --> maimai DX CiRCLE PLUS (transferred on 7/28/2026)
+
+- Rating: 14854 --> 14818
+- Class: SS5 (27) --> S5 (10)
+- Grade: 10th dan
